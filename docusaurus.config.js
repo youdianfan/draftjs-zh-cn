@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
 	title: 'Draft.js',
 	tagline: '基于React的富文本编辑器框架',
-	url: 'https://draftjs-cn.netlify.com',
+	url: 'https://youdianfan.github.io/draftjs-zh-cn/',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
