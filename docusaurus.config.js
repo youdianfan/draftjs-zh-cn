@@ -9,7 +9,7 @@ const config = {
 	title: 'Draft.js',
 	tagline: '基于React的富文本编辑器框架',
 	url: 'https://youdianfan.github.io/draftjs-zh-cn/',
-	baseUrl: '/',
+	baseUrl: '/draftjs-zh-cn/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
 	favicon: 'img/draftjs-logo.ico',
